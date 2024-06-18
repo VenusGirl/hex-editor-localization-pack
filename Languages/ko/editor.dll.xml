@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns="http://www.hhdsoftware.com/schemas/langset/1.0.xsd">
   <Message key="GotoLine" value="{line} 번호 {first} - {last}" revision="0" />
   <Message key="GoToHeader" value="{v}(으)로 가기" revision="0" />
@@ -13,7 +13,7 @@
   <Message key="Structure Editor Page" value="구조 편집기" revision="0" />
   <Message key="Save" value="저장" revision="0" />
   <Message key="Delete" value="삭제" revision="0" />
-  <Message key="Font:" value="긂꼴" revision="0" />
+  <Message key="Font:" value="글꼴" revision="0" />
   <Message key="Size:" value="크기:" revision="0" />
   <Message key="Font color:" value="글꼴 색상:" revision="0" />
   <Message key="Back color:" value="배경 색상:" revision="0" />
