@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns="http://www.hhdsoftware.com/schemas/langset/1.0.xsd">
   <Message key="CapYes" value="예" revision="1" />
   <Message key="CapNo" value="아니오" revision="1" />
@@ -428,6 +428,7 @@
   <Message key="Kaitai definition files" value="카이타이 정의 파일" revision="0" />
   <Message key="Sample Text" value="예제 텍스트" revision="0" />
   <Message key="Default" value="기본값" revision="0" />
+  <Message key="clr.balloon" value="알림 창 색상" revision="0" />
   <Message key="clr.balloon.balloon.fill" value="배경 색상" revision="0" />
   <Message key="clr.balloon.balloon.text" value="텍스트" revision="0" />
   <Message key="clr.balloon.balloon.stroke" value="스트로크" revision="0" />
