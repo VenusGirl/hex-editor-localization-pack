@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns="http://www.hhdsoftware.com/schemas/langset/1.0.xsd">
   <Message key="Calculating Checksums" value="체크섬 계산" revision="1" />
   <Message key="8-bit sum" value="8비트 합계" revision="1" />
@@ -48,6 +48,7 @@
   <Message key="Name:" value="이름:" revision="0" />
   <Message key="Checksum Result" value="체크섬 결과" revision="1" />
   <Message key="Copy" value="복사" revision="1" />
+  <Message key="Copy as Big-Endian" value="Big-Endian으로 복사" revision="0" />
   <Message key="Size:" value="크기:" revision="1" />
   <Message key="Separator:" value="구분자:" revision="1" />
   <Message key="Checksum settings" value="체크섭" revision="0" />
